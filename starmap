@@ -1,0 +1,2369 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta name="yandex-verification" content="9114ae545971a078" />
+	<meta charset="UTF-8">
+	<title>Карта звездного неба | Подарок. Создать карту звездного неба. Star Map - так сложились звезды</title>
+    <meta name="description" content="Star Map - звездная карта, карта звездного неба в определенную дату. Оригинальный и необычный подарок. Здесь создайте лучшую карту звездного неба для оригинального подарка">
+	<meta name="keywords" content="карта звездного неба, звездная карта, подарок, создать карту звездного неба, сделать карту неба, сделать карту звездного неба на определенную дату">    
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=0.5">	
+	<link rel="shortcut icon" href="favicon.ico"/>
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">		
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" />		
+	<link rel="stylesheet" href="js/sweetalert/sweetalert.css">	
+	<link rel="stylesheet" href="js/slick/slick.css">	
+	<link rel="stylesheet" href="js/slick/slick-theme.css">	
+	<link rel="stylesheet" href="css/animate.css">
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->	
+	<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?154",t.onload=function(){VK.Retargeting.Init("VK-RTRG-255374-1BFFH"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-255374-1BFFH" style="position:fixed; left:-999px;" alt=""/></noscript>
+
+	<!— Global site tag (gtag.js) - Google Analytics —>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121076526-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-121076526-1');
+	</script>
+  
+<!— Facebook Pixel Code —>
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '206235409724343');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=206235409724343&ev=PageView&noscript=1"
+/></noscript>
+<!— End Facebook Pixel Code —>
+
+</head>
+<body>	
+
+
+
+<!--
+<div class="blog-top-bg">
+	<div class="container">
+		<div class="blog-top">
+			<h2>Создать свою карту</h2>
+			<p>No two moments are the same. Some moments stand out from the rest because of that momentous leap, the excitement when you got that yes or the moment that stopped you in your tracks. It changes you and your life forever. Most moments do not last but they can stay in our hearts forever.</p>			
+		</div>
+	</div>
+</div>
+<div class="bread-crumbs">
+	<div class="container">
+		<a href="http://www.starmap.su">Главная</a>
+		<span class="stick">/</span>
+		<span>Создать свою карту</span>
+	</div>	
+</div>
+-->
+
+
+
+<div class="container">	
+	<div class="row" style="border-bottom: 1px dashed gray;">
+		<div class="col-md-12 col-lg-3">
+			<a style="padding:15px 0px" href="http://www.starmap.su"><img src="img/logo.png" alt="" style="padding:15px 0px"></a>	
+		</div>
+		<div class="col-md-12 col-lg-9">
+			<h3 style="font-family:tahoma;text-align:center;line-height:36px;padding:25px 0px;font-size:30px;">Здесь создайте свою индивидуальную<br />карту звездного неба</h3><br>
+         <h8 style="font-family:tahoma;text-align:center;line-height:16px;padding:5px 0px;font-size:16px;">Есть вопросы?  WhatsApp. Viber. Telegram: : +79967935691</h8>
+		</div>		
+	</div>
+</div>
+
+<div class="gray-bg">
+	<div class="container">
+		<div class="history">	
+
+			<div id="step1" style="display:block">
+				<p style="padding-top:10px">
+				<div class="row buy">				
+					<div class="col-md-6">
+						<div style="text-align:center;" id="header-map-param">ПАРАМЕТРЫ КАРТЫ</div>
+						<br /><br />
+						<div class="row">
+							<div class="col-xs-12">
+								<label>Откуда вы хотите наблюдать небо? После ввода, нажмите на кнопку "Поехали!"</label>
+
+								<input style="width:72%;display:inline-block;float:left;margin-top:1px" type="text" class="form-control" name="city" id="city" value="Санкт-Петербург">
+
+								<button style="float:right;padding: 3px;width: 100px;font-family: tahoma;display: inline-block;font-size: 14px;font-weight: 100;" type="button" class="btn-sm" onclick="reLocate();">Поехали!!!</button>
+							</div>					
+						</div>
+						<br />
+						
+						<div id="yamap" class="grayscale" style="width:100%;height:250px;"></div>
+						<i style="font-style: italic;font-size: 13px;font-family: tahoma;color:gray">Вы можете выбрать место на карте</i>
+						<br />
+						
+						<div class="row">
+							<div class="col-xs-12" style="text-align:left">
+								<label>Дата события?</label>
+								
+								<input type="text" style="display:inline-block;width:45px;text-align:center" class="form-control" name="date-day" id="date-day" onchange="correctDate();changeDate();" value="13" maxlength="2"> /
+								<select style="display:inline-block;width:125px;text-align:center" class="form-control" name="date-month" id="date-month" onchange="correctDate();changeDate();"><option value="Январь">Январь</option><option value="Февраль">Февраль</option><option value="Март">Март</option><option value="Апрель">Апрель</option><option value="Май">Май</option><option value="Июнь">Июнь</option><option value="Июль">Июль</option><option value="Август">Август</option><option value="Сентябрь">Сентябрь</option><option value="Октябрь">Октябрь</option><option value="Ноябрь" selected>Ноябрь</option><option value="Декабрь">Декабрь</option></select>								/
+								<input type="text" style="display:inline-block;width:70px;text-align:center" class="form-control" name="date-year" id="date-year" onchange="correctDate();changeDate();" value="2019" maxlength="4">
+							</div>					
+						</div>	
+						<br />
+						<div class="row">
+							<div class="col-xs-12">
+								<label>Ваше сообщение под картой <span style="color:gray;font-style:italic;font-size: 12px;" class="help-text"><br />(максимум - 4 строки, не более 60 символов в строке,<br />для перехода на новую строку необходимо нажать enter)</span></label>
+								<textarea style="height: 70px;max-width:490px;font-weight:normal" class="form-control" name="text" id="text" maxlength="240" placeholder="Вы можете добавить сообщение под карту. В конце каждой строки необходимо нажать Enter" onblur="changeText(this.value);"></textarea>
+							</div>					
+						</div>			
+						<br />					
+						<div class="row" style="text-align:left;">
+							<div class="col-xs-12">
+								<label>Выберите цвет фона</label>
+								<div style="font-family: tahoma;font-size: 14px;">
+									<input type="radio" name="background-color-radio" value="black" checked onchange="changeBackgroundRadio(this.value)"> черный <input type="radio" name="background-color-radio" value="white" onchange="changeBackgroundRadio(this.value)"> белый																	
+								</div>
+								
+							</div>
+						</div>											
+						<div class="row" style="text-align:left;display:none">
+							<div class="col-xs-6">
+								<label>Выберите цвет фона</label>
+								<input type="text" style="display:inline-block;width:80px;text-align:center" class="form-control jscolor" name="color" id="color" value="ffffff" onchange="changeBackground(this.value);">
+							</div>
+							<div class="col-xs-6">
+								<label>Выберите цвет текста</label>
+								<input type="text" style="display:inline-block;width:80px;text-align:center" class="form-control jscolor" name="color-text" id="color-text" value="000" onchange="changeColorText(this.value);">
+							</div>					
+						</div>	
+						<br />
+						<div id="block-param" style="display:block">
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Заголовок <span style="color:gray;font-style:italic;font-size: 12px;" class="help-text">(максимально 100 символов)</span></label>
+									<input type="text" class="form-control" name="title" id="title" value="Звездное небо" maxlength="100" onblur="changeTitle(this.value);">
+								</div>					
+							</div>								
+							<br />			
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Название места (своё)</label>
+									<input type="text" class="form-control" name="location" id="location" value="Санкт-Петербург" onblur="changeLocation(this.value);">
+								</div>					
+							</div>								
+							<br />	
+							<div class="row" style="text-align:left">
+								<div class="col-xs-6">
+									<label>Широта</label>
+									<input type="text" class="form-control" name="lon" id="lon" value="59.939037" onblur="changeLon(this.value);">
+								</div>					
+								<div class="col-xs-6">
+									<label>Долгота</label>
+									<input type="text" class="form-control" name="lat" id="lat" value="30.315784" onblur="changeLat(this.value);">
+								</div>											
+							</div>							
+							<br />	
+							<div class="row" style="text-align:left">
+								<div class="col-xs-6">
+									<label>Сетка</label>
+									<div style="font-family:tahoma;font-size:14px"><input type="checkbox" name="grid" id="grid" value="1" checked onclick="viewedAdd()"> отображать на карте сетку</div>
+								</div>			
+								<div class="col-xs-6">
+									<label>Окантовка</label>
+									<div style="font-family:tahoma;font-size:14px"><input type="checkbox" name="edge" id="edge" value="1" checked onclick="viewedAdd()"> отображать на карте окантовку</div>
+								</div>		
+							</div>
+							<br />	
+							<div class="row" style="text-align:left">								
+								<div class="col-xs-12">
+									<label>Созвездия</label>
+									<div style="font-family:tahoma;font-size:14px"><input type="checkbox" name="constellations" id="constellations" value="1" checked onclick="viewedAdd()"> отображать на карте созвездия</div>										
+									<div style="font-family:tahoma;font-size:14px"><input type="checkbox" name="constellations_sign" id="constellations_sign" value="1" checked onclick="viewedAdd()"> отображать на карте подписи к созвездиям на <select style="display:inline-block;width:170px;text-align:center;padding: 4px 6px;font-size: 13px;" class="form-control" name="language" id="language" onchange="updateMap();" ><option value="0" selected>английском языке</option><option value="1">русском языке</option></select></div>
+								</div>					
+							</div>	
+						</div>						
+						<br /><br />
+					</div>
+					<div class="col-md-6">
+						<div  id="help-text" style="text-align: center;width: 520px;margin: 0px auto;font-size: 13px;font-family: tahoma;">Это примерный вид вашей карты, который отображает данные, которые вы вводите! Формирование вашей карты с расположением звезд произойдет в следующих шагах</div>						
+						<br />
+						<div style="max-width: 500px;height: 700px;text-align: center;margin: 0px auto;padding-top:20px;position:relative;font-family: tahoma;" id="map">
+							<span id="preview">	
+								<img src="" id="starmap_example" style="width:500px" />
+								<br />		
+								<br />	
+								<input type="button" id="form-btn-buy" name="form-btn-buy" style="width:500px;font-size:16px;margin-top: 40px;" value="Сформировать карту и заказать" onclick="nextStep(2);">																							
+							</span>
+							
+							<span id="preview_loader" style="padding-top:280px">
+								<img src="img/preview_generator.gif" /><br /><br />
+								Генерируется карта
+							</span>
+							<div style="position:absolute;bottom:40px;left:0px;right:0px;margin:0px auto;text-align:center;font-size:10px;display:none">
+								<span id="text-msg" style="font-size: 12px;width: 420px;display: block;text-align:center;margin:0px auto;border: 1px dashed rgba(128, 128, 128, 0.450);height: 60px;"><span style="opacity:0.5">Здесь отображается<br />информация из поля<br /><span style="font-weight:bold">"ваше сообщение под картой"</span></span></span><br />
+								<br /><br />
+								<span id="title-msg">Звездное небо</span><br />
+								<span id="location-msg">Санкт-Петербург</span><br />
+								<span id="date-msg">13 Ноябрь 2019</span><br />
+								<span id="lat-msg">59.939037</span><span id="lat-msg-color">° широта</span>, <span id="lon-msg">30.315784</span><span id="lon-msg-color">° долгота</span>
+							</div>						
+							<br />
+							<br />
+						</div>						
+						<!--<div style="margin:0px auto;text-align:center;font-size: 14px;font-family: tahoma;"><a href="javascript:void(0)" onclick='updateMap();'>Обновить карту</a></div>-->
+					</div>				
+				</div>	
+				<div style="clear:both"></div>					
+				<!--
+				<br />					
+				<div class="row">				
+					<div class="col-xs-12">										
+						<br />
+						<div style="margin:0px auto; width:500px;">
+							<label style="border-bottom:1px dashed gray;display:inline-block;cursor:pointer" onclick="viewBlock()">Дополнительные опции</label>
+							<br />
+							<br />
+															
+							
+						</div>
+						<br />
+					</div>
+				</div>			
+				-->
+				
+				<div class="row" style="display:none">				
+					<div class="col-xs-12">										
+						<div style="text-align:center;">ОФОРМЛЕНИЕ ЗАКАЗА</div>
+						<br />
+						<div style="margin:0px auto; width:500px;padding:25px;background-color: #efefef;">
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>ФИО *</label>
+									<input type="text" class="form-control" name="fio" id="fio" placeholder="Введите ваше ФИО" value="">
+								</div>					
+							</div>		
+							<br />							
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>E-mail *</label>
+									<input type="text" class="form-control" name="email" id="email" placeholder="Введите e-mail, на который будет выслана карта" value="">
+								</div>					
+							</div>											
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Телефон</label>
+									<input type="text" class="form-control" name="phone" id="phone" placeholder="Введите ваш телефон" value="">
+								</div>					
+							</div>
+							<br />			
+							<label style="border-bottom:1px dashed gray;display:inline-block;cursor:pointer" onclick="viewBlockDiscount()">У меня есть скидочный купон</label>
+							
+							<div class="row" id="block-discount" style="text-align:left;display:none">
+								<div class="col-xs-8">
+									<label>Купон</label>
+									<input type="text" class="form-control" name="coupon" id="coupon" placeholder="Введите номер купона" value="">
+								</div>					
+								<div class="col-xs-4">									
+									<input type="button" id="form-btn-discount" name="form-btn-discount" value="Проверить">	
+								</div>													
+							</div>
+							<br />
+							<div class="row" style="text-align:center">
+								<div class="col-xs-12">
+									<label>&nbsp;</label>
+									Итоговая стоимость<br /><span style="font-weight:bold;font-size:38px"><span id="price">2000</span> руб.</span>
+								</div>					
+							</div>					
+							<br />
+							<input type="button" id="form-btn-buy" name="form-btn-buy" value="Купить" onclick="orderStarmap();">
+						</div>
+						<br />
+						<div style="margin:0px auto; width:500px;background-color: #efefef;opacity:0.65">
+							<img src="img/pay-accept.png">
+						</div>
+					</div>
+				</div>
+				
+				</p>
+			</div>
+			
+		
+			
+			<!-- step 2 START -->
+			<div id="step2" style="display:none">
+				<p>
+				
+				<!--
+				<section class="main">
+					<div class="wrapper">
+						<div class="inner">
+							<span>Г</span>
+							<span>е</span>
+							<span>н</span>
+							<span>е</span>
+							<span>р</span>
+							<span>а</span>
+							<span>ц</span>
+							<span>и</span>
+							<span>я</span>
+							<br />
+							<span>к</span>
+							<span>а</span>
+							<span>р</span>
+							<span>т</span>
+							<span>ы</span>							
+						</div>
+					</div>
+				</section>
+				-->
+				
+				
+				<div class="row buy">				
+					<div class="col-md-12">					
+						<div style="text-align:center;">ВЫБОР ТИПА ВАШЕЙ КАРТЫ ЗВЕЗДНОГО НЕБА</div>
+					</div>
+				</div>
+				<br /><br />
+				<div class="row buy">				
+					<div class="col-md-6" style="border-right: 1px solid gray;">											
+						<i class="fa fa-envelope" aria-hidden="true" style="font-size:60px"></i>
+						<div style="text-align:center;font-weight:bold">Электронная карта</div>
+						<br />
+						<p>МГНОВЕННО ПРИДЕТ НА ВАШ ЕМЕЙЛ! Готовый файл для самостоятельной печати с рекомендациями по печати.<br />Если вы не получили письмо на ваш емейл в течении 5-ти минут, загляните в папку "Спам". Если письма нет- свяжитесь с нами WhatsApp. Viber. Telegram: : +79967935691, info@starmap.su </p><br />
+						Стоимость<br />
+						<!--<span style="font-size:18px;font-family:tahoma"> 15*21 cм - 990 рублей<br />-->
+30*40 см - 1100 рублей <br />
+40*50 см - 1350 рублей <br />
+50*70 см - 1450 рублей<br />
+                      </span>
+						<br />
+						<br />
+						<input type="button" id="form-btn-buy" name="form-btn-buy" style="font-size:16px;width: 440px;" value="Проверить и получить карту на E-mail" onclick="nextStepFinal('email');">						
+						<br /><br />
+					</div>					
+					<div class="col-md-6">											
+						<i class="fa fa-truck" aria-hidden="true" style="font-size:60px"></i>
+						<div style="text-align:center;font-weight:bold">Распечатанный плакат с доставкой в тубусе</div>
+						<br />
+						<p>Постер премиального качества в тубусе. Доставка на пункты выдачи Boxberry - бесплатно. Доставку курьером рассчитает менеджер.</p><br />
+						Стоимость<br />
+						<!--<span style="font-size:18px;font-family:tahoma">15*21 см (в рамке) - 1100 рублей<br />-->
+30*40 см - 2250 рублей <br />
+40*50 см - 2550 рублей <br />
+50*70 см - 2750 рублей<br /><br />Карта подготавливается к отправке 1-2 дня.</span>
+						<br />
+						<br />
+						<input type="button" id="form-btn-buy" name="form-btn-buy" style="font-size:16px;width: 440px;" value="Проверить и заказать карту" onclick="nextStepFinal('post');">						
+					</div>					
+				</div>
+				</p>
+				
+			</div>			
+			<!-- step 2 END -->
+
+
+			<!-- step 2 START -->
+			<div id="step3" style="display:none">
+				<br /><br />
+				
+				<div class="row buy">				
+					<div class="col-md-12">					
+						<div style="text-align:center;">ОФОРМЛЕНИЕ ЗАКАЗА</div>
+					</div>
+				</div>
+				<br /><br />
+				<div class="row buy">				
+					<div class="col-md-5">
+						<div id="order-email" style="display:none">
+							<i class="fa fa-envelope" aria-hidden="true" style="font-size:60px"></i>
+							<div style="text-align:center;font-weight:bold">Электронная карта</div>
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>ФИО *</label>
+									<input type="text" class="form-control" name="fio-email" id="fio-email" placeholder="Введите ваше ФИО" value="">
+								</div>					
+							</div>		
+							<br />							
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>E-mail *</label>
+									<input type="text" class="form-control" name="email-email" id="email-email" placeholder="Введите e-mail, на который будет выслана карта" value="">
+								</div>					
+							</div>	
+							<br />							
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Телефон для связи<br /><span style="font-size:12px;color:gray">(Пожалуйста оставьте номер, в случае обнаружения ошибки на карте мы сможем с вами быстро связаться и все исправить)</span></label>
+									<input type="text" class="form-control" name="phone-email" id="phone-email" placeholder="Введите контактный телефон" value="">
+								</div>					
+							</div>
+							<br />							
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12" style="font-size:14px;font-family:tahoma">
+									<label>Размер карты *</label>
+									<!--
+									<div class="col-xs-3" style="text-align:left">
+										<input type="radio" value="15x21" name="size-starmap-email" checked onclick="changeSize(this.value,'email')"> 15*21 см<br />
+									</div>									
+									-->
+									<div class="col-xs-3" style="text-align:left">
+										<input type="radio" value="50x70" name="size-starmap-email" checked onclick="changeSize(this.value,'email')"> 30*40 см<br />
+									</div>
+									<div class="col-xs-3" style="text-align:left">
+										<input type="radio" value="100x140" name="size-starmap-email" onclick="changeSize(this.value,'email')"> 40*50 см<br />
+									</div>
+									<div class="col-xs-3" style="text-align:left">	
+										<input type="radio" value="200x280" name="size-starmap-email" onclick="changeSize(this.value,'email')"> 50*70 см
+									</div>
+								</div>					
+							</div>	
+							<br />							
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Проверка карты</label>
+									<div style="font-family:tahoma;font-size:14px"><input type="checkbox" name="check-map-email" id="check-map-email" value="1"> <span style="font-weight:bold">Карта мною проверена и верна!</span></div>
+								</div>												
+							</div>	
+							<br />			
+							<label style="border-bottom:1px dashed gray;display:inline-block;cursor:pointer" onclick="viewBlockDiscount('email')">У меня есть скидочный купон</label>
+							
+							<div class="row" id="block-discount-email" style="text-align:left;display:none">
+								<div class="col-xs-8">
+									<label>Купон</label>
+									<input type="text" class="form-control" name="coupon-email" id="coupon-email" placeholder="Введите номер купона" value="">
+								</div>					
+								<div class="col-xs-4">									
+									<input type="button" class="btn" id="form-btn-discount-email" name="form-btn-discount-email" value="Проверить" onclick="checkCoupon('email')">	
+								</div>													
+							</div>
+							<div class="row" id="block-discount-email-value" style="display:none">								
+								<div class="col-xs-12" id="block-discount-email-value-text"></div>													
+							</div>							
+							<br />
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Ваш комментарий</label>
+									<div style="font-family:tahoma;font-size:14px">																	
+										<textarea class="form-control"  name="comment-email" id="comment-email" style="height:85px;" placeholder="Напишите ваш комментарий"></textarea>
+									</div>
+								</div>												
+							</div>	
+							<br />		
+
+							<div class="row" style="text-align:center">
+								<div class="col-xs-12">
+									<label>&nbsp;</label>
+									<span id="price-email-text">Итоговая стоимость</span><br /><span style="font-weight:bold;font-size:38px"><span id="price-email">1100</span> руб.</span>
+								</div>					
+							</div>					
+							<br />
+							<input type="button" id="form-btn-buy" name="form-btn-buy" value="Оплатить" onclick="orderStarmap('email', this);">					
+						</div>
+						<div id="order-post" style="display:none">
+							<i class="fa fa-truck" aria-hidden="true" style="font-size:60px"></i>
+							<div style="text-align:center;font-weight:bold">Живая печать с доставкой</div>
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>ФИО *</label>
+									<input type="text" class="form-control" name="fio-post" id="fio-post" placeholder="Введите ваше ФИО" value="">
+								</div>					
+							</div>		
+							<br />							
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>E-mail *</label>
+									<input type="text" class="form-control" name="email-post" id="email-post" placeholder="Введите e-mail, на который будет выслана карта" value="">
+								</div>					
+							</div>	
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Телефон для связи *</label>
+									<input type="text" class="form-control" name="phone-post" id="phone-post" placeholder="Введите контактный телефон" value="">
+								</div>					
+							</div>	
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Адрес доставки *</label>
+									<input type="text" class="form-control" name="address-post" id="address-post" placeholder="Введите адрес доставки (страна, город, улица, дом)" value="">
+								</div>					
+							</div>	
+							<br />							
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12" style="font-size:14px;font-family:tahoma">
+									<label>Размер напечатанной карты *</label>
+									<!--
+									<div class="col-xs-3" style="text-align:left">
+										<input type="radio" value="15x21" name="size-starmap-post" checked onclick="changeSize(this.value,'post')"> 15*21 см<br />
+									</div>									
+									-->
+									<div class="col-xs-3" style="text-align:left">
+										<input type="radio" value="50x70" name="size-starmap-post" checked onclick="changeSize(this.value,'post')"> 30*40 см<br />
+									</div>
+									<div class="col-xs-3" style="text-align:left">
+										<input type="radio" value="100x140" name="size-starmap-post" onclick="changeSize(this.value,'post')"> 40*50 см<br />
+									</div>
+									<div class="col-xs-3" style="text-align:left">	
+										<input type="radio" value="200x280" name="size-starmap-post" onclick="changeSize(this.value,'post')"> 50*70 см
+									</div>
+								</div>					
+							</div>	
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Проверка карты</label>
+									<div style="font-family:tahoma;font-size:14px"><input type="checkbox" name="check-map-post" id="check-map-post" value="1"> <span style="font-weight:bold">карта мною проверена!</span></div>
+								</div>												
+							</div>	
+							<br />			
+							<label style="border-bottom:1px dashed gray;display:inline-block;cursor:pointer" onclick="viewBlockDiscount('post')">У меня есть скидочный купон</label>
+							
+							<div class="row" id="block-discount-post" style="text-align:left;display:none">
+								<div class="col-xs-8">
+									<label>Купон</label>
+									<input type="text" class="form-control" name="coupon-post" id="coupon-post" placeholder="Введите номер купона" value="">
+								</div>					
+								<div class="col-xs-4">									
+									<input type="button" class="btn" id="form-btn-discount-post" name="form-btn-discount-post" value="Проверить" onclick="checkCoupon('post')">	
+								</div>													
+							</div>
+							<div class="row" id="block-discount-post-value" style="display:none">								
+								<div class="col-xs-12" id="block-discount-post-value-text"></div>													
+							</div>								
+							<br />							
+							<br />
+							<div class="row" style="text-align:left">
+								<div class="col-xs-12">
+									<label>Ваш комментарий</label>
+									<div style="font-family:tahoma;font-size:14px">																	
+										<textarea class="form-control"  name="comment-post" id="comment-post" style="height:65px;" placeholder="Напишите ваш комментарий"></textarea>
+									</div>
+								</div>												
+							</div>								
+							<div class="row" style="text-align:center">
+								<div class="col-xs-12">
+									<label>&nbsp;</label>
+									<span id="price-post-text">Итоговая стоимость</span><br /><span style="font-weight:bold;font-size:38px"><span id="price-post">2250</span> руб.</span>
+								</div>					
+							</div>					
+							<br />
+							<input type="button" id="form-btn-buy" name="form-btn-buy" value="Оплатить" onclick="orderStarmap('post', this);">						
+						</div>
+					</div>
+					<br /><br />
+					<div class="col-md-7">
+						<div style="text-align: center;width: 520px;margin: 0px auto;font-size: 13px;font-family: tahoma;">Проверьте внимательно вашу карту. После оплаты карта сразу поступает в производство и изменить ее будет невозможно! Если необходимо вернитесь к <span style="border-bottom:1px dotted gray;cursor:pointer" onclick="nextStep(1);">редактированию</span>.</div>						
+						<br />
+						<div style="max-width: 500px;height: 700px;text-align: center;margin: 0px auto;padding-top:20px;position:relative;font-family: tahoma;" id="map-final">
+							<img src="" id="starmap_example_final" style="width:500px" />
+							
+							<div style="position:absolute;bottom:40px;left:0px;right:0px;margin:0px auto;text-align:center;font-size:10px;display:none">
+								<span id="text-msg-final" style="font-size: 12px;width: 420px;display: block;text-align:center;margin:0px auto;border: 1px dashed rgba(128, 128, 128, 0.450);height: 60px;"><span style="opacity:0.5">Здесь отображается<br />информация из поля<br /><span style="font-weight:bold">"ваше сообщение под картой"</span></span></span><br />
+								<br /><br />
+								<span id="title-msg-final">Звездное небо</span><br />
+								<span id="location-msg-final">Санкт-Петербург</span><br />
+								<span id="date-msg-final">13 Ноябрь 2019</span><br />
+								<span id="lat-msg-final">59.939037</span><span id="lat-msg-color-final">° широта</span>, <span id="lon-msg-final">30.315784</span><span id="lon-msg-color-final">° долгота</span>
+							</div>						
+							<br />
+							<br />
+						</div>
+					</div>						
+				</div>
+				
+				
+			</div>	
+			<!-- step 3 END -->
+			<br /><br />
+		</div>
+	</div>
+</div>
+
+<form action='https://auth.robokassa.ru/Merchant/Index.aspx' method='POST' id='order-form-pay'><input type=hidden name=MrchLogin id='MrchLogin' value=''><input type=hidden name=OutSum id='OutSum' value=''><input type=hidden name=InvId id='InvId' value=''><input type=hidden name=Desc id='Desc' value=''><input type=hidden name=SignatureValue id='SignatureValue' value=''><input type=hidden name=Receipt id='Receipt' value=''><input type=hidden name=Email id='Email' value=''></form>	
+
+<div id="loading" style="display:none">
+	<div id="loading-center">
+	
+		<div id="loading-center-absolute">
+			<div class="object" id="object_four"></div>
+			<div class="object" id="object_three"></div>
+			<div class="object" id="object_two"></div>
+			<div class="object" id="object_one"></div>		
+			<div id="object_text" class="animated infinite fadeIn">Идёт генерация карты звездного неба!<br />Подождите...</div>	
+		</div>
+	
+	</div>			 
+</div>	
+
+
+
+<div class="footer">
+	<div class="navbar header">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="http://www.starmap.su"><img src="img/logo.png" alt=""></a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right main-menu">
+					<li><a href="service.php" class="active">Создать свою карту</a></li><li><a href="blog.php">О проекте</a></li><li><a href="gift.php">Потрясающий подарок</a></li><li><a href="#">Космомагазин</a></li><li><a href="https://www.instagram.com/starmapsky/"><img src="img/instagram_logo.png" style="width:30px"></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="bottom">	
+		<div style="float:left">
+			<a style="margin:0px" href="http://www.upon.ru" target="_blank">Разработка и поддержка</a> <a style="margin:0px;text-decoration:underline" href="http://www.upon.ru" target="_blank">UPON.ru</a>
+		</div>
+		<div style="float:right">
+			WhatsApp. Viber: : +79500263557
+			<a  href="javascript:void(0);" onclick="open_popup2('#modal_window2')">политика конфиденциальности</a>
+			<a href="contact.php">контакты</a>		
+			<!-- Yandex.Metrika counter -->
+			<script type="text/javascript" >
+			   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+			   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+			   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+			   ym(53641114, "init", {
+					clickmap:true,
+					trackLinks:true,
+					accurateTrackBounce:true,
+					webvisor:true
+			   });
+			</script>
+			<noscript><div><img src="https://mc.yandex.ru/watch/53641114" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+			<!-- /Yandex.Metrika counter -->			
+		</div>
+	</div>
+</div>
+
+<div style="display: none;" id="background2" onclick="close_popup2('#modal_window2')"></div>
+<div class="policy" id="modal_window2">
+<div style="padding-bottom:20px">
+	<p class="policy-head">Политика конфиденциальности StarMap.Su</p> 
+
+	<p>
+	<span>ОПРЕДЕЛЕНИЕ ТЕРМИНОВ</span>
+	Существующая на текущий момент политика конфиденциальности персональных данных (далее – Политика конфиденциальности) работает со следующими понятиями:<br />
+	<ul>
+		<li>«Администрация сайта Интернет-магазина (далее – Администрация сайта)». Так называют представляющих интересы организации специалистов, в чьи обязанности входит управление сайтом, то есть организация и (или) обработка поступивших на него персональных данных. Для выполнения этих обязанностей они должны чётко представлять, для чего обрабатываются сведения, какие сведения должна быть обработаны, какие действия (операции) должны производиться с полученными сведениями.</li>
+		<li>«Персональные данные» — сведения, имеющие прямое или косвенное отношение к определённому либо определяемому физическому лицу (также называемому субъектом персональных данных).</li>
+		<li>«Обработка персональных данных» — любая операция (действие) либо совокупность таковых, которые Администрация производит с персональными данными. Их могут собирать, записывать, систематизировать, накапливать, хранить, уточнять (при необходимости обновлять или изменять), извлекать, использовать, передавать (распространять, предоставлять, открывать к ним доступ), обезличивать, блокировать, удалять и даже уничтожать. Данные операции (действия) могут выполняться как автоматически, так и вручную.</li>
+		<li>«Конфиденциальность персональных данных» — обязательное требование, предъявляемое к Оператору или иному работающему с данными Пользователя должностному лицу, хранить полученные сведения в тайне, не посвящая в них посторонних, если предоставивший персональные данные Пользователь не изъявил своё согласие, а также отсутствует законное основание для разглашения.</li>
+		<li>«Пользователь сайта Интернет-магазина» (далее — Пользователь)» – человек, посетивший сайт Интернет-магазина, а также пользующийся его программами и продуктами.</li>
+		<li>«Cookies» — короткий фрагмент данных, пересылаемый веб-браузером или веб-клиентом веб-серверу в HTTP-запросе, всякий раз, когда Пользователь пытается открыть страницу Интернет-магазина. Фрагмент хранится на компьютере Пользователя.</li>
+		<li>«IP-адрес» — уникальный сетевой адрес узла в компьютерной сети, построенной по протоколу TCP/IP.</li>
+	</ul>
+	</p>
+	<p>
+	<span>ОБЩИЕ ПОЛОЖЕНИЯ</span>
+	Просмотр сайта Интернет-магазина, а также использование его программ и продуктов подразумевают автоматическое согласие с принятой там Политикой конфиденциальности, подразумевающей предоставление Пользователем персональных данных на обработку.<br />
+	Если Пользователь не принимает существующую Политику конфиденциальности, Пользователь должен покинуть Интернет-магазин.<br />
+	Имеющаяся Политика конфиденциальности распространяется только на сайт Интернет-магазина. Если по ссылкам, размещённым на сайте последнего, Пользователь зайдёт на ресурсы третьих лиц, Интернет-магазин за его действия ответственности не несёт.<br />
+	Проверка достоверности персональных данных, которые решил сообщить принявший Политику конфиденциальности Пользователь, не входит в обязанности Администрации сайта.<br />
+	</p>
+	<p>
+	<span>ПРЕДМЕТ ПОЛИТИКИ КОНФИДЕНЦИАЛЬНОСТИ</span>
+	Согласно проводимой в текущий период Политике конфиденциальности Администрация Интернет-магазина обязана не разглашать персональные данные, сообщаемые Пользователями, регистрирующимися на сайте или оформляющими заказ на покупку товара, а также обеспечивать этим данным абсолютную конфиденциальность.<br />
+	Чтобы сообщить персональные данные, Пользователь заполняет расположенные на сайте интернет-магазина электронные формы. Персональными данными Пользователя, которые подлежат обработке, являются:<br />
+	<ul>
+		<li>его фамилия, имя, отчество;</li>
+		<li>его контактный телефон;</li>
+		<li>его электронный адрес (e-mail);</li>
+		<li>адрес, по которому должен быть доставлен купленный им товар;</li>
+		<li>адрес проживания Пользователя.</li>
+	</ul>
+	Защита данных, автоматически передаваемых при просмотре рекламных блоков и посещении страниц с установленными на них статистическими скриптами системы (пикселями) осуществляется Интернет-магазином. Вот перечень этих данных:<br />
+	<ul>
+		<li>IP-адрес;</li>
+		<li>сведения из cookies;</li>
+		<li>сведения о браузере (либо другой программе, через которую становится доступен показ рекламы);</li>
+		<li>время посещения сайта;</li>
+		<li>адрес страницы, на которой располагается рекламный блок;</li>
+		<li>реферер (адрес предыдущей страницы).</li>	
+	</ul>
+	Последствием отключения cookies может стать невозможность доступа к требующим авторизации частям сайта Интернет-магазина.<br />
+	Интернет-магазин собирает статистику об IP-адресах всех посетителей. Данные сведения нужны, чтобы выявить и решить технические проблемы и проконтролировать, насколько законным будет проведение финансовых платежей.<br />
+	Любые другие неоговорённые выше персональные сведения (о том, когда и какие покупки были сделаны, какой при этом использовался браузер, какая была установлена операционная система и пр.) надёжно хранятся и не распространяются. Исключение существующая Политика конфиденциальности предусматривает для случаев, описанных в п.п. 5.2 и 5.3.<br />
+	</p>
+	<p>
+	<span>ЦЕЛИ СБОРА ПЕРСОНАЛЬНОЙ ИНФОРМАЦИИ ПОЛЬЗОВАТЕЛЯ</span>
+	Сбор персональных данных Пользователя Администрацией Интернет-магазина проводится ради того, чтобы:<br />
+	Идентифицировать Пользователя, который прошёл процедуру регистрации на сайте Интернет-магазина, чтобы оформить заказ и (или) приобрести товар данного магазина дистанционно.<br />
+	Открыть Пользователю доступ к персонализированным ресурсам данного сайта.<br />
+	Установить с Пользователем обратную связь, под которой подразумевается, в частности, рассылка запросов и уведомлений, касающихся использования сайта Интернет-магазина, обработка пользовательских запросов и заявок, оказание прочих услуг.<br />
+	Определить местонахождение Пользователя, чтобы обеспечить безопасность платежей и предотвратить мошенничество.<br />
+	Подтвердить, что данные, которые предоставил Пользователь, полны и достоверны.<br />
+	Создать учётную запись для совершения Покупок, если Пользователь изъявил на то своё желание.<br />
+	Уведомить Пользователя о состоянии его заказа в Интернет-магазине.<br />
+	Обрабатывать и получать платежи, подтверждать налог или налоговые льготы, оспаривать платёж, определять, целесообразно ли предоставить конкретному Пользователю кредитную линию.<br />
+	Обеспечить Пользователю максимально быстрое решение проблем, встречающихся при использовании Интернет-магазина, за счёт эффективной клиентской и технической поддержки.<br />
+	Своевременно информировать Пользователя об обновлённой продукции, ознакомлять его с уникальными предложениями, новыми прайсами, новостями о деятельности Интернет-магазина или его партнёров и прочими сведениями, если Пользователь изъявит на то своё согласие.<br />
+	Рекламировать товары Интернет-магазина, если Пользователь изъявит на то своё согласие.<br />
+	Предоставить Пользователю доступ на сайты или сервисы Интернет-магазина, помогая ему тем самым получать продукты, обновления и услуги.<br />
+	<span>СПОСОБЫ И СРОКИ ОБРАБОТКИ ПЕРСОНАЛЬНОЙ ИНФОРМАЦИИБ.</span>
+	Срок обработки персональных данных Пользователя ничем не ограничен. Процедура обработки может проводиться любым предусмотренным законодательством способом. В частности, с помощью информационных систем персональных данных, которые могут вестись автоматически либо без средств автоматизации.<br />
+	Обработанные Администрацией сайта персональные данные Пользователя могут передаваться третьим лицам, в число которых входят курьерские службы, организации почтовой связи, операторы электросвязи. Делается это для того, чтобы выполнить заказ Пользователя, оставленный им на сайте Интернет-магазина, и доставить товар по адресу. Согласие Пользователя на подобную передачу предусмотрено правилами политики сайта.<br />
+	Также обработанные Администрацией сайта персональные данные могут передаваться уполномоченным органов государственной власти Российской Федерации, если это осуществляется на законных основаниях и в предусмотренном российским законодательством порядке.<br />
+	Если персональные данные будут утрачены или разглашены, Пользователь уведомляется об этом Администрацией сайта.<br />
+	Все действия Администрации сайта направлены на то, чтобы не допустить к персональным данным Пользователя третьих лиц (за исключением п.п. 5.2, 5.3). Последним эта информация не должна быть доступна даже случайно, дабы те не уничтожили её, не изменили и не блокировали, не копировали и не распространяли, а также не совершали прочие противозаконные действия. Для защиты пользовательских данных Администрация располагает комплексом организационных и технических мер.<br />
+	Если персональные данные будут утрачены либо разглашены, Администрация сайта совместно с Пользователем готова принять все возможные меры, дабы предотвратить убытки и прочие негативные последствия, вызванные данной ситуацией.<br />
+	</p>
+	<p>
+	<span>ОБЯЗАТЕЛЬСТВА СТОРОН</span>
+	В обязанности Пользователя входит:<br />
+	Сообщение соответствующих требованиям Интернет-магазина сведений о себе.<br />
+	Обновление и дополнение предоставляемых им сведений в случае изменения таковых.<br />
+	В обязанности Администрации сайта входит:<br />
+	<ul>
+		<li>Применение полученных сведений исключительно в целях, обозначенных в п. 4 существующей Политики конфиденциальности.</li>
+		<li>Обеспечение конфиденциальности поступивших от Пользователя сведений. Они не должны разглашаться, если Пользователь не даст на то письменное разрешение. Также Администрация не имеет права продавать, обменивать, публиковать либо разглашать прочими способами переданные Пользователем персональные данные, исключая п.п. 5.2 и 5.3 существующей Политики конфиденциальности.</li>
+		<li>Принятие мер предосторожности, дабы персональные данные Пользователя оставались строго конфиденциальными, точно также, как остаются конфиденциальными такого рода сведения в современном деловом обороте.</li>
+		<li>Блокировка персональных пользовательских данных с того момента, с которого Пользователь либо его законный представитель сделает соответствующий запрос. Право сделать запрос на блокировку также предоставляется органу, уполномоченному защищать права Пользователя, предоставившего Администрации сайта свои данные, на период проверки, в случае обнаружения недостоверности сообщённых персональных данных либо неправомерности действий.</li>
+	</ul>
+	</p>
+	<p>
+	<span>ОТВЕТСТВЕННОСТЬ СТОРОН</span>
+	В случае неисполнения Администрацией сайта собственных обязательств и, как следствие, убытков Пользователя, понесённых из-за неправомерного использования предоставленной им информации, ответственность возлагается на неё. Об этом, в частности, утверждает российское законодательство. Исключение существующая в настоящее время Политика конфиденциальности делает для случаев, отражённых в п.п. 5.2, 5.3 и 7.2.<br />
+	Но существует ряд случаев, когда Администрация сайта ответственности не несёт, если пользовательские данные утрачиваются или разглашаются. Это происходит тогда, когда они:<br />
+	Превратились в достояние общественности до того, как были утрачены или разглашены.<br />
+	Были предоставлены третьими лицами до того, как их получила Администрация сайта.<br />
+	Разглашались с согласия Пользователя.<br />
+	</p>
+	<p>
+	<span>РАЗРЕШЕНИЕ СПОРОВ</span>
+	Если Пользователь недоволен действиями Администрации Интернет-магазина и намерен отстаивать свои права в суде, до того как обратиться с иском, он в обязательном порядке должен предъявить претензию (письменно предложить урегулировать конфликт добровольно).<br />
+	Получившая претензию Администрация обязана в течение 30 календарных дней с даты её получения письменно уведомить Пользователя о её рассмотрении и принятых мерах.<br />
+	Если обе стороны так и не смогли договориться, спор передаётся в судебный орган, где его должны рассмотреть согласно действующему российскому законодательству.<br />
+	Регулирование отношений Пользователя и Администрации сайта в Политике конфиденциальности проводится согласно действующему российскому законодательству.<br />
+	</p>
+	<p>
+	<span>ДОПОЛНИТЕЛЬНЫЕ УСЛОВИЯ</span>
+	Администрация сайта вправе менять существующую на текущий момент Политику конфиденциальности, не спрашивая согласия у Пользователя.<br />
+	Вступление в силу новой Политики конфиденциальности начинается после того, как информация о ней будет выложена на сайт Интернет-магазина, если изменившаяся Политика не подразумевает иного варианта размещения.<br />
+	Все предложения, пожелания, требования или вопросы по настоящей Политике конфиденциальности следует сообщать путем отправки электронного письма по адресу <a href="mailto:info@starmap.su">info@StarMap.Su</a><br />
+	</p>
+	<p>
+	Обновлено «20» марта 2018 г.
+	</p>	
+	</div>
+	<div class="policy-cross" onclick="close_popup2('#modal_window2')" style="cursor:pointer"></div>
+</div>
+
+
+
+	<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>			
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/slick/slick.min.js"></script>
+	<script type="text/javascript" src="js/fancybox/jquery.fancybox.js?v=2.1.5"></script>	
+	<script type="text/javascript" src="js/sweetalert/sweetalert.min.js"></script>			
+	<script type="text/javascript" src="js/script.js"></script>				
+
+	<!-- WhatsHelp.io widget -->
+	<script type="text/javascript">
+	(function () {
+	var options = {
+	whatsapp: "+79967935691", // WhatsApp number
+	telegram: "Starmapshop", // Telegram bot username
+	vkontakte: "starmapsky", // VKontakte page name
+	email: "info@starmap.su", // Email
+	company_logo_url: "//www.starmap.su/img/logo.png", // URL of company logo (png, jpg, gif)
+	greeting_message: "Есть вопрос?! Отправьте нам сообщение через любой из мессенджеров.", // Text of greeting message
+	call_to_action: "Есть вопрос?!", // Call to action
+	button_color: "#FF6550", // Color of button
+	position: "right", // Position may be 'right' or 'left'
+	order: "whatsapp,telegram,vkontakte,email", // Order of buttons
+	};
+	var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+	var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+	s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+	var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+	})();
+	</script>
+	<!-- /WhatsHelp.io widget -->
+<script src="js/jquery-ui-1.10.3.min.js"></script>
+<script src="js/jscolor.min.js"></script>
+
+<link href="js/spop/spop.css" rel="stylesheet">
+<script src="js/spop/spop.js"></script>
+<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+<script src="js/html2canvas/html2canvas.min.js"></script>
+
+<script>				
+
+var myPlacemark;
+var lonUpdate,latUpdate;
+var myMap;
+ymaps.ready(function () {
+	myMap = new ymaps.Map('yamap', {
+		center: [59.939037, 30.315784],
+		controls: ['zoomControl'],
+		zoom: 9
+	}, {
+		searchControlProvider: 'yandex#search'
+	});
+
+	myPlacemark = new ymaps.Placemark(myMap.getCenter(), {
+		hintContent: 'Ваша точка наблюдения за небом'
+		
+	}, {
+		iconLayout: 'default#image',            
+		iconImageHref: 'img/starmap_icon3.png',            
+		iconImageSize: [80, 77],
+		iconImageOffset: [-20, -30]
+	});	
+	myMap.geoObjects.add(myPlacemark);
+	
+	myMap.events.add('click', function (e) {
+		/*
+		myMap.panTo([e.get('coords')[0],e.get('coords')[1]], {
+				flying: true
+			}
+		)
+		*/
+		lonUpdate = Number(e.get('coords')[0]).toFixed(6);
+		latUpdate = Number(e.get('coords')[1]).toFixed(6);
+		myMap.setCenter([e.get('coords')[0], e.get('coords')[1]])				
+		myMap.geoObjects.remove(myPlacemark);
+		myPlacemark = new ymaps.Placemark(myMap.getCenter(), {
+			hintContent: 'Ваша точка наблюдения за небом'
+			
+		}, {
+			iconLayout: 'default#image',            
+			iconImageHref: 'img/starmap_icon3.png',            
+			iconImageSize: [80, 77],
+			iconImageOffset: [-20, -30]
+		});	
+		myMap.geoObjects.add(myPlacemark);				
+		
+		var query = 'mode=send';								
+			query += '&geocode=' + encodeURIComponent(e.get('coords')[1])+','+encodeURIComponent(e.get('coords')[0]);					
+		
+		$.ajax({
+			type: "POST",
+			data: query,
+			url: "./ajax/geocode-inverse.php",
+			dataType: "json",
+			success: function(data) {
+				switch(data.result) {
+					case 'ok':
+						//console.log(data);
+						document.getElementById('city').value=data.address;
+						document.getElementById('location').value=data.address;
+						changeLocation(data.address);
+						document.getElementById('lon').value=lonUpdate;
+						changeLon(lonUpdate);
+						document.getElementById('lat').value=latUpdate;
+						changeLat(latUpdate);
+					break;
+					default: return false;
+				}
+			}
+		}); 				
+		return false;			
+		
+		//https://geocode-maps.yandex.ru/1.x/?geocode=Москва,+Тверская+улица,+дом+7
+		
+	});	
+        
+});	
+
+$("#city").autocomplete({
+	source: "./ajax/city-autocomplete.php",
+	minLength: 2,
+	select: function(event,ui){						
+	}
+});		
+
+/*
+	$("#client").autocomplete({
+		source: "./ajax/autocomplete/client-name.php",
+		minLength: 1,
+		select: function(event,ui){								
+			document.getElementById("id_"+event.target.id).value = ui.item.id;
+			document.getElementById("email_docs_client").value = ui.item.email_docs;
+		}
+	});	
+*/
+
+function nextStep(_id) {
+	for(i=1;i<=3;i++) {
+		document.getElementById('step'+i).style.display="none";
+	}
+
+	if(_id==1) {
+		$('#step1').fadeIn(800);				
+	}
+	
+	if(_id==2) {			
+		document.getElementById('loading').style.display="block";		
+		document.getElementById('starmap_example_final').src = document.getElementById('starmap_example').src;							
+		$("#loading").delay(1500).fadeOut(500);
+		document.getElementById('step'+_id).style.display="block";		
+	}
+}
+
+function nextStepFinal(_type) {
+	for(i=1;i<=3;i++) {
+		document.getElementById('step'+i).style.display="none";
+	}
+	
+	$('#step3').fadeIn(800);
+	//document.getElementById('step'+_id).style.display="block";		
+	if(_type=="email") {
+		document.getElementById('order-'+_type).style.display="block";		
+	}	
+	else if(_type=="post") { 
+		document.getElementById('order-'+_type).style.display="block";		
+	}	
+}
+
+function viewBlock() {
+	$('#block-param').slideToggle();
+}
+function viewBlockDiscount(_type) {
+	$('#block-discount-'+_type).slideToggle();
+}
+
+function changeBackground(_this) {
+	document.getElementById('map').style.backgroundColor = '#'+_this;
+	document.getElementById('map-final').style.backgroundColor = '#'+_this;
+}
+
+function changeBackgroundRadio(_this) {	
+	
+	if(_this=="black") {
+		//document.getElementById('map').style.backgroundColor = _this;
+		document.getElementById('text-msg').style.color = 'white';
+		document.getElementById('title-msg').style.color = 'white';
+		document.getElementById('location-msg').style.color = 'white';
+		document.getElementById('date-msg').style.color = 'white';
+		document.getElementById('lat-msg').style.color = 'white';
+		document.getElementById('lon-msg').style.color = 'white';
+		document.getElementById('lat-msg-color').style.color = 'white';
+		document.getElementById('lon-msg-color').style.color = 'white';
+		//	final
+		//document.getElementById('map-final').style.backgroundColor = _this;
+		document.getElementById('text-msg-final').style.color = 'white';
+		document.getElementById('title-msg-final').style.color = 'white';
+		document.getElementById('location-msg-final').style.color = 'white';
+		document.getElementById('date-msg-final').style.color = 'white';
+		document.getElementById('lat-msg-final').style.color = 'white';
+		document.getElementById('lon-msg-final').style.color = 'white';
+		document.getElementById('lat-msg-color-final').style.color = 'white';
+		document.getElementById('lon-msg-color-final').style.color = 'white';
+
+	}
+	else {
+		//document.getElementById('map').style.backgroundColor = _this;
+		document.getElementById('text-msg').style.color = 'black';
+		document.getElementById('title-msg').style.color = 'black';
+		document.getElementById('location-msg').style.color = 'black';
+		document.getElementById('date-msg').style.color = 'black';
+		document.getElementById('lat-msg').style.color = 'black';
+		document.getElementById('lon-msg').style.color = 'black';
+		document.getElementById('lat-msg-color').style.color = 'black';
+		document.getElementById('lon-msg-color').style.color = 'black';			
+		// final
+		//document.getElementById('map-final').style.backgroundColor = _this;
+		document.getElementById('text-msg-final').style.color = 'black';
+		document.getElementById('title-msg-final').style.color = 'black';
+		document.getElementById('location-msg-final').style.color = 'black';
+		document.getElementById('date-msg-final').style.color = 'black';
+		document.getElementById('lat-msg-final').style.color = 'black';
+		document.getElementById('lon-msg-final').style.color = 'black';
+		document.getElementById('lat-msg-color-final').style.color = 'black';
+		document.getElementById('lon-msg-color-final').style.color = 'black';		
+	}
+	
+	updateMap();
+}	
+
+function changeColorText(_this) {
+	document.getElementById('text-msg').style.color = '#'+_this;
+	document.getElementById('title-msg').style.color = '#'+_this;
+	document.getElementById('location-msg').style.color = '#'+_this;
+	document.getElementById('date-msg').style.color = '#'+_this;
+	document.getElementById('lat-msg').style.color = '#'+_this;
+	document.getElementById('lon-msg').style.color = '#'+_this;		
+	document.getElementById('lat-msg-color').style.color = '#'+_this;
+	document.getElementById('lon-msg-color').style.color = '#'+_this;			
+	/*--- final ---*/
+	document.getElementById('text-msg-final').style.color = '#'+_this;
+	document.getElementById('title-msg-final').style.color = '#'+_this;
+	document.getElementById('location-msg-final').style.color = '#'+_this;
+	document.getElementById('date-msg-final').style.color = '#'+_this;
+	document.getElementById('lat-msg-final').style.color = '#'+_this;
+	document.getElementById('lon-msg-final').style.color = '#'+_this;		
+	document.getElementById('lat-msg-color-final').style.color = '#'+_this;
+	document.getElementById('lon-msg-color-final').style.color = '#'+_this;			
+}
+
+function changeText(_this) {
+	document.getElementById('text-msg').style.border = "none";
+	document.getElementById('text-msg').innerHTML = _this;
+	/*--- final ---*/
+	document.getElementById('text-msg-final').style.border = "none";
+	document.getElementById('text-msg-final').innerHTML = _this;
+	
+	updateMap();
+}
+
+function changeTitle(_this) {
+	document.getElementById('title-msg').innerHTML = _this;
+	/*--- final ---*/
+	document.getElementById('title-msg-final').innerHTML = _this;
+	updateMap();
+}	
+
+function changeLon(_this) {
+	document.getElementById('lat-msg').innerHTML = _this;
+	/*--- final ---*/
+	document.getElementById('lat-msg-final').innerHTML = _this;
+	updateMap();
+}	
+
+function changeLat(_this) {
+	document.getElementById('lon-msg').innerHTML = _this;
+	/*--- final ---*/
+	document.getElementById('lon-msg-final').innerHTML = _this;
+	updateMap();
+}	
+
+function changeLocation(_this) {
+	document.getElementById('location-msg').innerHTML = _this;
+	/*--- final ---*/
+	document.getElementById('location-msg-final').innerHTML = _this;
+	updateMap();
+}		
+
+function viewedAdd() {
+	var checkGrid = 0;
+	var checkConstellations = 0;
+	if(document.getElementById('grid').checked) {
+		checkGrid = 1;
+	}
+	if(document.getElementById('constellations').checked) {
+		checkConstellations = 1;
+	}
+	/*
+	if(checkGrid == 0 && checkConstellations == 0) {
+		document.getElementById('starmap_example').src = 'img/example0.png';		
+		document.getElementById('starmap_example_final').src = 'img/example0.png';
+	}
+	else if(checkGrid == 1 && checkConstellations == 0) {
+		document.getElementById('starmap_example').src = 'img/example1.png';		
+		document.getElementById('starmap_example_final').src = 'img/example1.png';
+	}
+	else if(checkGrid == 0 && checkConstellations == 1) {
+		document.getElementById('starmap_example').src = 'img/example2.png';
+		document.getElementById('starmap_example_final').src = 'img/example2.png';
+	}
+	else if(checkGrid == 1 && checkConstellations == 1) {
+		document.getElementById('starmap_example').src = 'img/example3.png';		
+		document.getElementById('starmap_example_final').src = 'img/example3.png';
+	}		
+	*/
+	
+	updateMap();
+}
+
+function changeDate() {
+	var day = document.getElementById('date-day').value;
+	var month = document.getElementById('date-month').value;
+	var year = document.getElementById('date-year').value;
+	document.getElementById('date-msg').innerHTML = day + ' ' + month + ' ' + year;
+	/*--- final ---*/
+	document.getElementById('date-msg-final').innerHTML = day + ' ' + month + ' ' + year;
+	updateMap();
+}
+
+function reLocate() {
+	var city = document.getElementById('city').value;			
+	document.getElementById('location').value = city;
+	
+	var query = 'mode=send';								
+		query += '&city=' + encodeURIComponent(city);					
+
+	$.ajax({
+		type: "POST",
+		data: query,
+		url: "./ajax/relocate-ajax.php",
+		dataType: "json",
+		async: false,
+		success: function(data) {
+			switch(data.result) {
+				case 'ok':
+					console.log(data);
+					var lonAjax = Number(data.lon).toFixed(6);
+					var latAjax = Number(data.lat).toFixed(6);		
+					document.getElementById('lon').value = lonAjax;
+					document.getElementById('lat').value = latAjax;
+					
+					if(lonAjax!="" && latAjax!="" && lonAjax!=null && latAjax!=null) {							
+						spop({
+							template: '<span style="font-family:tahoma">Успешно определены координаты места</span>',
+							autoclose: 3000,
+							style: 'success'
+						});							
+					}
+					else {
+						spop({
+							template: '<span style="font-family:tahoma">Не определены координаты места наблюдения за небом. Необходимо ввести еще раз другой город/район</span>',
+							autoclose: 3000,
+							style: 'warning'
+						});	
+					}
+					startedMsg();
+
+					myMap.setCenter([lonAjax, latAjax])				
+					myMap.geoObjects.remove(myPlacemark);
+					myPlacemark = new ymaps.Placemark(myMap.getCenter(), {
+						hintContent: 'Ваша точка наблюдения за небом'
+						
+					}, {
+						iconLayout: 'default#image',            
+						iconImageHref: 'img/starmap_icon3.png',            
+						iconImageSize: [80, 77],
+						iconImageOffset: [-20, -30]
+					});	
+					myMap.geoObjects.add(myPlacemark);								
+					
+				break;
+				default: return false;
+			}
+		}
+	}); 
+	updateMap();
+	return false;				
+}	
+
+function startedMsg() {		
+	
+	var text = document.getElementById('text').value;
+	document.getElementById('text-msg').innerHTML = text;						
+	document.getElementById('text-msg-final').innerHTML = text;						
+	
+	var location = document.getElementById('location').value;
+	document.getElementById('location-msg').innerHTML = location;						
+	document.getElementById('location-msg-final').innerHTML = location;						
+	
+	var day = document.getElementById('date-day').value;
+	var month = document.getElementById('date-month').value;
+	var year = document.getElementById('date-year').value;		
+	document.getElementById('date-msg').innerHTML = day + ' ' + month + ' ' + year;						
+	document.getElementById('date-msg-final').innerHTML = day + ' ' + month + ' ' + year;						
+	
+	
+	var lon = document.getElementById('lon').value;		
+	document.getElementById('lat-msg').innerHTML = lon;
+	document.getElementById('lat-msg-final').innerHTML = lon;
+	
+	var lat = document.getElementById('lat').value;		
+	document.getElementById('lon-msg').innerHTML = lat;				
+	document.getElementById('lon-msg-final').innerHTML = lat;				
+	
+}
+
+function orderStarmap(_type, _this) {
+	
+	var boolError = 0;
+	
+	var fio = "";
+	var email = "";
+	var phone = "";
+	var address = "";
+	var size = "";
+	var coupon = "";
+	var comment = "";
+	var price = "";	
+	
+	if(_type=='email') {
+		fio = document.getElementById("fio-"+_type).value;       
+		if(fio == null || fio =="") {
+			document.getElementById("fio-"+_type).style.borderBottom="1px solid red";        
+			boolError = 1;
+		}  
+		else {        
+			document.getElementById("fio-"+_type).style.borderBottom="1px solid gray";	        
+		};    
+
+		email = document.getElementById("email-"+_type).value;       
+		if(email == null || email =="") {
+			document.getElementById("email-"+_type).style.borderBottom="1px solid red";        
+			boolError = 1;
+		}  
+		else {        
+			document.getElementById("email-"+_type).style.borderBottom="1px solid gray";	        
+		};    				
+
+		if(boolError) { 
+			swal("Ошибка", "Необходимо заполнить все поля", "error");
+			return;		
+		}
+
+		if(!validateEmail(email)) {
+			if(boolError!=1) {
+				document.getElementById("email-"+_type).style.borderBottom="1px solid red";        
+				swal("Ошибка", "Неверный формат e-mail!", "error");
+				return;						
+			}
+		}	
+		
+		var checkMapEmail = 0;       
+		if(document.getElementById("check-map-"+_type).checked) {
+			checkMapEmail = 1;       
+		}
+		else {
+			swal("Ошибка", "Необходимо поставить галочку напротив проверки карты", "error");
+			return;		
+		}		
+		size = "15x21";
+		var rates = document.getElementsByName('size-starmap-email');		
+		for(var i = 0; i < rates.length; i++){
+			if(rates[i].checked){
+				size = rates[i].value;
+			}
+		}	
+		phone = document.getElementById("phone-"+_type).value;		
+		coupon =  document.getElementById("coupon-"+_type).value;      
+		comment =  document.getElementById("comment-"+_type).value;   
+		price = document.getElementById("price-"+_type).innerHTML;   
+	
+	}
+	else if(_type=='post'){
+		fio = document.getElementById("fio-"+_type).value;       
+		if(fio == null || fio =="") {
+			document.getElementById("fio-"+_type).style.borderBottom="1px solid red";        
+			boolError = 1;
+		}  
+		else {        
+			document.getElementById("fio-"+_type).style.borderBottom="1px solid gray";	        
+		};    
+
+		email = document.getElementById("email-"+_type).value;       
+		if(email == null || email =="") {
+			document.getElementById("email-"+_type).style.borderBottom="1px solid red";        
+			boolError = 1;
+		}  
+		else {        
+			document.getElementById("email-"+_type).style.borderBottom="1px solid gray";	        
+		};    				
+
+		phone = document.getElementById("phone-"+_type).value;       
+		if(phone == null || phone =="") {
+			document.getElementById("phone-"+_type).style.borderBottom="1px solid red";        
+			boolError = 1;
+		}  
+		else {        
+			document.getElementById("phone-"+_type).style.borderBottom="1px solid gray";	        
+		};  
+		
+		address = document.getElementById("address-"+_type).value;       
+		if(address == null || address =="") {
+			document.getElementById("address-"+_type).style.borderBottom="1px solid red";        
+			boolError = 1;
+		}  
+		else {        
+			document.getElementById("address-"+_type).style.borderBottom="1px solid gray";	        
+		};  
+		
+		if(boolError) { 
+			swal("Ошибка", "Необходимо заполнить все поля", "error");
+			return;		
+		}
+
+		if(!validateEmail(email)) {
+			if(boolError!=1) {
+				document.getElementById("email-"+_type).style.borderBottom="1px solid red";        
+				swal("Ошибка", "Неверный формат e-mail!", "error");
+				return;						
+			}
+		}	
+		
+		var checkMapEmail = 0;       
+		if(document.getElementById("check-map-"+_type).checked) {
+			checkMapEmail = 1;       
+		}
+		else {
+			swal("Ошибка", "Необходимо поставить галочку напротив проверки карты", "error");
+			return;		
+		}	
+		size = "15x21";
+		var rates = document.getElementsByName('size-starmap-post');		
+		for(var i = 0; i < rates.length; i++){
+			if(rates[i].checked){
+				size = rates[i].value;
+			}
+		}			
+		coupon =  document.getElementById("coupon-"+_type).value;      
+		comment =  document.getElementById("comment-"+_type).value;      
+		price = document.getElementById("price-"+_type).innerHTML;   
+
+	}	
+	
+	_this.disabled = true;
+		
+	var text = document.getElementById('text').value;
+	var location = document.getElementById('location').value;				
+	var title = document.getElementById('title').value;				
+	var day = document.getElementById('date-day').value;
+	var month = document.getElementById('date-month').value;
+	var year = document.getElementById('date-year').value;		
+	var date_event =  day + ' ' + month + ' ' + year;						
+	var lon = document.getElementById('lon').value;				
+	var lat = document.getElementById('lat').value;		
+	var color = document.getElementById('color').value;		
+	var color_text = document.getElementById('color-text').value;		
+	
+	//yaCounterXXXXXXX.reachGoal('order');
+	
+	var $_GET = parseGET();
+	var utm = "";
+	var namekey = ['utm_medium','utm_source','utm_campaign','utm_content','utm_text'];
+	for(z=0; z<namekey.length; z++){
+		if(!!$_GET[namekey[z]]){
+			utm += namekey[z]+'='+$_GET[namekey[z]]+'&';
+		}
+	}		
+	
+	var $_GET = parseGET();
+	//console.log($_GET);
+	var ref = "";
+	var refkey = ['source','sub'];
+	for(z=0; z<refkey.length; z++){
+		if(!!$_GET[refkey[z]]){
+			ref += refkey[z]+'='+$_GET[refkey[z]]+'&';
+		}
+	}
+	
+	var $_GET = parseGET();
+	//console.log($_GET);
+	var refNew = "";
+	var refkeyNew = ['pid','offer_id'];
+	for(z=0; z<refkeyNew.length; z++){
+		if(!!$_GET[refkeyNew[z]]){
+			refNew += refkeyNew[z]+'='+$_GET[refkeyNew[z]]+'&';
+		}
+	}	
+	//console.log(ref);
+	//return;	
+	
+	var radios = document.getElementsByTagName('input');
+	var backgroudColorForMap = 0;
+	var textColorForMap = 0;
+	for (var i = 0; i < radios.length; i++) {
+		if (radios[i].type === 'radio' && radios[i].name == 'background-color-radio' && radios[i].checked) {
+			// get value, set checked flag or do whatever you need to
+			backgroudColorForMap = radios[i].value;       
+		}
+	}	
+
+	var grid = "Нет";
+	if(document.getElementById('grid').checked) {
+		grid = "Да";
+	}
+	var edge = "Нет";;
+	if(document.getElementById('edge').checked) {
+		edge = "Да";
+	}
+	var constellations = "Нет";
+	if(document.getElementById('constellations').checked) {
+		constellations = "Да";
+	}
+	var constellations_sign = "Нет";
+	if(document.getElementById('constellations_sign').checked) {
+		constellations_sign = "Да";
+	}
+	var language = document.getElementById('language').value;
+	if(language==1) {
+		language == "на русском";
+	}
+	else if(language==0) {
+		language == "на английском";
+	}		
+
+	var imgSource = document.getElementById('starmap_example').src;
+
+	var day = document.getElementById('date-day').value;
+	var month = document.getElementById('date-month').value;
+	var year = document.getElementById('date-year').value;	
+	
+	var radios = document.getElementsByTagName('input');
+	var backgroudColorForMap = 0;
+	var textColorForMap = 0;
+	for (var i = 0; i < radios.length; i++) {
+		if (radios[i].type === 'radio' && radios[i].name == 'background-color-radio' && radios[i].checked) {
+			// get value, set checked flag or do whatever you need to
+			backgroudColorForMap = radios[i].value;       
+		}
+	}	
+	//alert(backgroudColorForMap);
+	if(backgroudColorForMap=='white') {		
+		textColorForMap = 16777216;		
+		backgroudColorForMap = 1;
+	}
+	else if(backgroudColorForMap=='black') {
+		textColorForMap = 1;				
+		backgroudColorForMap = 16777216;
+	}
+	
+	var query = 'mode=send';
+		query += '&fio=' + encodeURIComponent(fio);
+		query += '&type=' + encodeURIComponent(_type);
+		query += '&email=' + encodeURIComponent(email);     	   
+		query += '&phone=' + encodeURIComponent(phone);     	   		   
+		query += '&address=' + encodeURIComponent(address);     	   		   
+		query += '&size=' + encodeURIComponent(size);     	   	
+		query += '&comment=' + encodeURIComponent(comment);     	   	
+		query += '&text=' + encodeURIComponent(text);     	   	   
+		query += '&location=' + encodeURIComponent(location);   
+		query += '&title=' + encodeURIComponent(title);     	   	     	   	   
+		query += '&date_event=' + encodeURIComponent(date_event);     	   	     	   	   
+		query += '&lon=' + encodeURIComponent(lon);     	   	     	   	   
+		query += '&lat=' + encodeURIComponent(lat);     	   	     	   	   
+		query += '&color=' + encodeURIComponent(color);     	   	     	   	   
+		query += '&color_text=' + encodeURIComponent(color_text);     	   	     	   	   
+		query += '&coupon=' + encodeURIComponent(coupon);     	 
+		query += '&price=' + encodeURIComponent(price);     	 
+		query += '&grid=' + encodeURIComponent(grid);					
+		query += '&edge=' + encodeURIComponent(edge);					
+		query += '&constellations=' + encodeURIComponent(constellations);					
+		query += '&constellations_sign=' + encodeURIComponent(constellations_sign);					
+		query += '&language=' + encodeURIComponent(language);		   
+		query += '&img_source=' + encodeURIComponent(imgSource);		   
+		query += '&day=' + encodeURIComponent(day);					
+		query += '&month=' + encodeURIComponent(month);					
+		query += '&year=' + encodeURIComponent(year);					
+		query += '&backgroudColorForMap=' + encodeURIComponent(backgroudColorForMap);					
+		query += '&textColorForMap=' + encodeURIComponent(textColorForMap);			
+	    query += '&'+utm; 	   
+		query += '&'+ref; 	
+		query += '&'+refNew; 	
+
+	html2canvas($("#map-final"), {   
+		background:'#fff',  
+		onrendered: function(canvas) {         
+			/*
+			dataType: 'text',				
+			data: {
+				base64data : imgData
+			},
+			*/
+		
+			var imgData = canvas.toDataURL('image/jpeg');   							
+			query += '&img=' + encodeURIComponent(imgData);   
+			$.ajax({ 
+				type: "POST", 
+				url: "./php/order.php",
+				dataType: "json",				
+				data: query,				
+				success: function(data) {	
+					switch(data.result) {				
+						case 'ok':	
+							//alert(data.href);
+							//window.location.href = data.href;
+							//swal("Заказ", "Ваш запрос успешно отправлен! В ближайшее время наши сотрудники свяжутся с вами!", "success");						
+							//переход на оплату 
+							document.getElementById('MrchLogin').value = data.MrchLogin;
+							document.getElementById('OutSum').value = data.OutSum;
+							document.getElementById('InvId').value = data.InvId;
+							document.getElementById('Desc').value = data.Desc;
+							document.getElementById('SignatureValue').value = data.SignatureValue;
+							document.getElementById('Receipt').value = data.Receipt;
+							document.getElementById('Email').value = data.Email;
+							//document.getElementById('OutSumCurrency').value = data.OutSumCurrency;
+							document.getElementById('MrchLogin').value = data.MrchLogin;
+							
+							if(data.OutSum<0.00001) {
+								window.location="order-success.php?id="+data.InvId+"&type=nopay";
+							}
+							else {							
+								document.getElementById('order-form-pay').submit();
+							}
+						break;
+						default: return false;									
+						/*
+						var a = document.createElement('a');
+						a.href = url;
+						a.target = '_blank';
+						document.body.appendChild(a);
+						a.click();
+						*/
+					}
+				}						
+			});     
+		}
+	});
+		   
+	/*
+	$.ajax({
+		type: "POST",
+		data: query,
+		url: "./php/order.php",
+		dataType: "json",
+		success: function(data) {
+			switch(data.result) {
+				case 'ok':	
+					swal("Заказ", "Ваш запрос успешно отправлен! В ближайшее время наши сотрудники свяжутся с вами!", "success");						
+				break;
+				default: return false;
+			}
+		}
+	});    
+	*/
+
+	return false;  			
+}
+
+function validateEmail(email) { 
+	var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+	return re.test(email);
+}  	
+
+function updateMap() {
+	
+	//return;	
+	var text = document.getElementById('text').value;
+	var location = document.getElementById('location').value;				
+	var title = document.getElementById('title').value;				
+	var day = document.getElementById('date-day').value;
+	var month = document.getElementById('date-month').value;
+	var year = document.getElementById('date-year').value;			
+	var lon = document.getElementById('lon').value;				
+	var lat = document.getElementById('lat').value;		
+	//var color = document.getElementById('color').value;		
+	//var color_text = document.getElementById('color-text').value;		
+	
+	var radios = document.getElementsByTagName('input');
+	var backgroudColorForMap = 0;
+	var textColorForMap = 0;
+	for (var i = 0; i < radios.length; i++) {
+		if (radios[i].type === 'radio' && radios[i].name == 'background-color-radio' && radios[i].checked) {
+			// get value, set checked flag or do whatever you need to
+			backgroudColorForMap = radios[i].value;       
+		}
+	}	
+	//alert(backgroudColorForMap);
+	if(backgroudColorForMap=='white') {
+		backgroudColorForMap = 1;
+		textColorForMap = 16777216;		
+	}
+	else if(backgroudColorForMap=='black') {
+		textColorForMap = 1;				
+		backgroudColorForMap = 16777216;
+	}
+	
+	var grid = 0;
+	if(document.getElementById('grid').checked) {
+		grid = 1;
+	}
+	var edge = 0;
+	if(document.getElementById('edge').checked) {
+		edge = 1;
+	}
+	var constellations = 0;
+	if(document.getElementById('constellations').checked) {
+		constellations = 1;
+	}
+	var constellations_sign = 0;
+	if(document.getElementById('constellations_sign').checked) {
+		constellations_sign = 1;
+	}
+	//var language = document.getElementById('language').value;
+	var language = document.getElementById('language').value;
+	if(language==1) {
+		language == "на русском";
+	}
+	else if(language==0) {
+		language == "на английском";
+	}		
+
+	var query = 'mode=send';								
+		query += '&text=' + encodeURIComponent(text);					
+		query += '&location=' + encodeURIComponent(location);					
+		query += '&title=' + encodeURIComponent(title);					
+		query += '&day=' + encodeURIComponent(day);					
+		query += '&month=' + encodeURIComponent(month);					
+		query += '&year=' + encodeURIComponent(year);					
+		query += '&lon=' + encodeURIComponent(lon);					
+		query += '&lat=' + encodeURIComponent(lat);					
+		query += '&backgroudColorForMap=' + encodeURIComponent(backgroudColorForMap);					
+		query += '&textColorForMap=' + encodeURIComponent(textColorForMap);					
+		query += '&grid=' + encodeURIComponent(grid);					
+		query += '&edge=' + encodeURIComponent(edge);					
+		query += '&constellations=' + encodeURIComponent(constellations);					
+		query += '&constellations_sign=' + encodeURIComponent(constellations_sign);					
+		query += '&language=' + encodeURIComponent(language);		
+	//console.log(query);
+	document.getElementById('preview').style.display = "none";
+	document.getElementById('preview_loader').style.display = "block";	
+	$.ajax({
+		type: "POST",
+		data: query,
+		url: "./ajax/update-preview-map-ajax.php",
+		dataType: "json",
+		success: function(data) {
+			switch(data.result) {
+				case 'ok':
+					//console.log(data);
+					//alert(data.src);
+					document.getElementById('starmap_example').src = data.src;												
+					document.getElementById('preview_loader').style.display = "none";
+					document.getElementById('preview').style.display = "block";					
+					
+				break;
+				default: return false;
+			}
+		}
+	}); 				
+	return false;			
+	
+}
+$(document).ready(function() {
+	updateMap();
+});
+
+$(document).ready(function() {
+	$("#city").keyup(function(event) {
+		if(event.keyCode==13) {
+			document.getElementById('date-day').focus();			
+		}
+	});
+});
+
+//$('body').on('click keypress', '#date-day', function(key) {
+function correctDate() {	
+	_this = document.getElementById('date-day');
+	var monthNameArr = { 'Январь' : 1, 'Февраль' : 2,	'Март' : 3,	'Апрель' : 4, 'Май' : 5, 'Июнь' : 6, 'Июль' : 7, 'Август' : 8, 'Сентябрь' : 9, 'Октябрь' : 10, 'Ноябрь' : 11, 'Декабрь' : 12  };
+	var maxDay = daysInMonth(monthNameArr[document.getElementById('date-month').value],document.getElementById('date-year').value);
+	if(maxDay==0) { 
+		swal("Ошибка", "Текущая дата не существует, введите корректный день", "error"); 
+	}
+	if(_this.value>maxDay) { 
+		swal("Ошибка", "В текущем месяце максильная дата "+maxDay, "error");
+		_this.value = maxDay;
+	}
+}
+
+$("#date-day,#date-year").keypress(function(event){
+	event = event || window.event;
+	if (event.charCode && event.charCode!=0 && event.charCode!=46 && (event.charCode < 48 || event.charCode > 57) ) {
+		swal("Ошибка", "Разрешено вводить только цифры", "error"); 
+		return false;
+	}
+});
+
+function daysInMonth(month, year) {	
+   var MonthDays = [
+             [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31],
+             [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+            ];
+   if (month<1 || month>12) return 0;
+   if (year<0 || year>9999) return 0;
+   return MonthDays[((month==2) || ((year%4==0) || ((year%100!=0) || (year%400==0))))?1:0][month-1];
+}
+
+
+var maxLength = 60;
+$('#text').on('input focus keydown keyup', function() {
+    var text = $(this).val();
+    var lines = text.split(/(\r\n|\n|\r)/gm); 
+    for (var i = 0; i < lines.length; i++) {
+        if (lines[i].length > maxLength) {
+            lines[i] = lines[i].substring(0, maxLength);
+        }
+    }
+    $(this).val(lines.join(''));
+});
+
+
+
+fimg = document.images;
+for(j=0;j<fimg.length;j++){
+	fimg[j].galleryimg = "no";
+	fimg[j].oncontextmenu = function(){return false;}
+	fimg[j].ondragstart = function(){return false;}
+}
+
+
+function checkCoupon(_type) {
+
+	var boolError = 0;	
+	var num = document.getElementById('coupon-'+_type).value;
+	if(num== null || num=="") {
+		document.getElementById('coupon-'+_type).style.borderBottom="1px solid red";        
+		boolError = 1;
+	}  
+	else {        
+		document.getElementById('coupon-'+_type).style.borderBottom="1px solid gray";	        
+	};    				
+
+	if(boolError) { 
+		swal("Ошибка", "Необходимо ввести номер купона", "error");
+		return;		
+	}
+	
+	var type = _type;
+	var size = "15x21";
+	var rates = document.getElementsByName('size-starmap-'+_type);		
+	for(var i = 0; i < rates.length; i++){
+		if(rates[i].checked){
+			size = rates[i].value;
+		}
+	}	
+	
+	var query = 'mode=send';								
+		query += '&num=' + encodeURIComponent(num);					
+		query += '&type=' + encodeURIComponent(type);					
+		query += '&size=' + encodeURIComponent(size);					
+	
+	$.ajax({
+		type: "POST",
+		data: query,
+		url: "./ajax/check-coupon-ajax.php",
+		dataType: "json",
+		success: function(data) {
+			switch(data.result) {
+				case 'ok':
+					document.getElementById('block-discount-'+_type+'-value-text').innerHTML = '<span style="font-size: 15px;font-family: tahoma;color:green">'+data.msg+'</span>';			
+					document.getElementById('block-discount-'+_type+'-value').style.display = 'block';								
+					document.getElementById('price-'+_type+'-text').innerHTML = "Итоговая цена со скидкой";
+					
+					size = "15x21";
+					var price = 990;
+					var rates = document.getElementsByName('size-starmap-email');		
+					for(var i = 0; i < rates.length; i++){
+						if(rates[i].checked){
+							size = rates[i].value;
+						}
+					}				
+					
+					if(size=="50x70") {
+						price = 1100;
+					}					
+					else if(size=="100x140") {
+						price = 1350;
+					}
+					else if(size=="200x280") {
+						price = 1450;
+					}			
+					
+					if(_type == 'post') {
+						size = "15x21";
+						var price = 1100;
+						var rates = document.getElementsByName('size-starmap-post');		
+						for(var i = 0; i < rates.length; i++){
+							if(rates[i].checked){
+								size = rates[i].value;
+							}
+						}	
+						
+						if(size=="50x70") {
+							price = 2250;
+						}							
+						else if(size=="100x140") {
+							price = 2550;
+						}
+						else if(size=="200x280") {
+							price = 2750;
+						}						
+					}
+					
+					if(data.type == 0) {
+						document.getElementById("price-"+_type).innerHTML = price*1 - data.value*1;  
+					}
+					else if(data.type == 1) {
+						document.getElementById("price-"+_type).innerHTML = price*1 - (data.value*1*price*1)/100;  
+					}
+					
+				break;
+				case 'notvalid':
+					document.getElementById('block-discount-'+_type+'-value-text').innerHTML = '<span style="font-size: 15px;font-family: tahoma;color: #900;">'+data.msg+'</span>';
+					document.getElementById('block-discount-'+_type+'-value').style.display = 'block';								
+										
+				break;
+				case 'notisset':
+					document.getElementById('block-discount-'+_type+'-value-text').innerHTML = '<span style="font-size: 15px;font-family: tahoma;color: #900;">'+data.msg+'</span>';
+					document.getElementById('block-discount-'+_type+'-value').style.display = 'block';																		
+				break;				
+				default: return false;
+			}
+		}
+	}); 				
+	return false;			
+		
+}
+
+function changeSize(_value, _type) {	
+	var rates = document.getElementsByName('size-starmap-'+_type);		
+	for(var i = 0; i < rates.length; i++){
+		if(rates[i].checked){
+			size = rates[i].value;
+		}
+	}				
+	
+	var price = 990;
+	if(_type=="email") {
+		if(size=="15x21") { 
+			price = 990;
+		}			
+		else if(size=="50x70") { 
+			price = 1100;
+		}	
+		else if(size=="100x140") {
+			price = 1350;
+		}
+		else if(size=="200x280") {
+			price = 1450;
+		}			
+	}
+	else if(_type=="post") {
+		if(size=="15x21") { 
+			price = 1100;
+		}					
+		else if(size=="50x70") { 
+			price = 2250;
+		}	
+		else if(size=="100x140") {
+			price = 2550;
+		}
+		else if(size=="200x280") {
+			price = 2750;
+		}					
+	}		
+	
+	document.getElementById("price-"+_type).innerHTML = price*1;
+}
+
+
+function parseGET(url){
+  var namekey = ['utm_medium','utm_source','utm_campaign','utm_content','utm_text','source','sub'];  
+  if(!url || url == '') url = decodeURI(document.location.search);
+  if(url.indexOf('?') < 0) return Array();
+
+  url = url.split('?');
+  url = url[1];
+
+  var GET = [],
+      params = [],
+      key = [];
+
+  if(url.indexOf('#')!=-1){ url = url.substr(0,url.indexOf('#')); }
+  if(url.indexOf('&') > -1){ params = url.split('&');} else {params[0] = url; }
+
+  for (r=0; r<params.length; r++){
+    for (z=0; z<namekey.length; z++){
+      if(params[r].indexOf(namekey[z]+'=') > -1){
+        if(params[r].indexOf('=') > -1) {
+          key = params[r].split('=');
+          GET[key[0]]=key[1];
+        }
+      }
+    }
+  }
+  return (GET);
+}; 
+
+
+/*
+$(function() {
+
+    var maxLength = 50;
+    var mawRow = 4;
+
+    $('#text').on('input focus keydown keyup', function() {
+
+        //get Textearea text
+        var text = $(this).val();
+
+        //Split with \n carriage return
+        var lines = text.split("\n"); 
+
+        for (var i = 0; i < lines.length; i++) {
+            if (lines[i].length > maxLength) {
+                lines[i] = lines[i].substring(0, maxLength);
+            }     
+        }
+
+        //On supprime ce qui dépasse... :)
+        while (lines.length > 4){    
+            lines.pop();
+        }
+
+        //Join with \n.
+        //Set textarea
+        $(this).val(lines.join("\n"));
+    });
+});
+*/
+</script>
+
+<style>
+.grayscale { 
+  filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='saturate' values='0'/></filter></svg>#grayscale");
+	-webkit-filter: grayscale(1);
+	filter: grayscale(1);
+	filter: gray; /* IE6-9 */ - не работает!!
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+
+
+.wrapper {
+	font-size: 25px; /* 1em */
+
+    width: 9em;
+    height: 9em;
+    position: relative;
+    margin: 40px auto;
+
+    border-radius: 50%;
+    background: rgba(255,255,255,0.1);
+    border: 1em dashed rgba(138,189,195,0.5);
+    box-shadow: 
+    	inset 0 0 2em rgba(255,255,255,0.3),
+    	0 0 0 0.7em rgba(255,255,255,0.3);
+
+    line-height: 6.8em;
+    text-align: center;
+    font-family: Arial;
+	font-weight:bold;
+    color: #444;
+    text-shadow: 0 .04em rgba(255,255,255,0.9);
+
+    -webkit-animation: steam 3.5s linear infinite;
+    -moz-animation: steam 3.5s linear infinite;
+    -ms-animation: steam 3.5s linear infinite;
+    -o-animation: steam 3.5s linear infinite;
+    animation: steam 3.5s linear infinite;
+}
+
+.wrapper:after, 
+.wrapper:before {
+    content: "";
+    position: absolute;
+    left: 0; right: 0; top: 0; bottom: 0;
+    z-index: -1;
+    border-radius: inherit;
+    box-shadow: inset 0 0 2em rgba(255,255,255,0.3);
+    border: 1em dashed rgba(138,189,195,0.2);
+}
+
+.wrapper:before {
+    top: 1em; bottom: 1em; right: 1em; left: 1em; 
+    border: 1em dashed rgba(138,189,195,0.4);
+}
+
+.inner {
+    width: 100%;
+    height: 100%;
+    -webkit-animation: steam 3.5s linear reverse infinite;
+    -moz-animation: steam 3.5s linear reverse infinite;
+    -ms-animation: steam 3.5s linear reverse infinite;
+    -o-animation: steam 3.5s linear reverse infinite;
+    animation: steam 3.5s linear reverse infinite;
+	font-size:20px;
+}
+
+.inner span {
+    display: inline-block;
+
+    -webkit-animation: loading-1 1.5s ease-out infinite;
+    -moz-animation: loading-1 1.5s ease-out infinite;
+    -ms-animation: loading-1 1.5s ease-out infinite;
+    -o-animation: loading-1 1.5s ease-out infinite;
+    animation: loading-1 1.5s ease-out infinite;
+}
+
+.inner span:nth-child(1)  { 
+	-webkit-animation-name: loading-1;
+	-moz-animation-name: loading-1;
+	-ms-animation-name: loading-1;
+	-o-animation-name: loading-1;
+	animation-name: loading-1;
+}
+
+.inner span:nth-child(2)  { 
+	-webkit-animation-name: loading-2;
+	-moz-animation-name: loading-2;
+	-ms-animation-name: loading-2;
+	-o-animation-name: loading-2;
+	animation-name: loading-2;
+}
+
+.inner span:nth-child(3)  { 
+	-webkit-animation-name: loading-3;
+	-moz-animation-name: loading-3;
+	-ms-animation-name: loading-3;
+	-o-animation-name: loading-3;
+	animation-name: loading-3;
+}
+
+.inner span:nth-child(4)  { 
+	-webkit-animation-name: loading-4;
+	-moz-animation-name: loading-4;
+	-ms-animation-name: loading-4;
+	-o-animation-name: loading-4;
+	animation-name: loading-4;
+}
+
+.inner span:nth-child(5)  { 
+	-webkit-animation-name: loading-5;
+	-moz-animation-name: loading-5;
+	-ms-animation-name: loading-5;
+	-o-animation-name: loading-5;
+	animation-name: loading-5;
+}
+
+.inner span:nth-child(6)  { 
+	-webkit-animation-name: loading-6;
+	-moz-animation-name: loading-6;
+	-ms-animation-name: loading-6;
+	-o-animation-name: loading-6;
+	animation-name: loading-6;
+}
+
+.inner span:nth-child(7)  { 
+	-webkit-animation-name: loading-7;
+	-moz-animation-name: loading-7;
+	-ms-animation-name: loading-7;
+	-o-animation-name: loading-7;
+	animation-name: loading-7;
+}
+
+.inner span:nth-child(8)  { 
+	-webkit-animation-name: loading-8;
+	-moz-animation-name: loading-8;
+	-ms-animation-name: loading-8;
+	-o-animation-name: loading-8;
+	animation-name: loading-8;
+}
+
+@-webkit-keyframes steam {
+    to { -webkit-transform: rotate(360deg); }
+}
+
+@-moz-keyframes steam {
+    to { -moz-transform: rotate(360deg); }
+}
+
+@-ms-keyframes steam {
+    to { -ms-transform: rotate(360deg); }
+}
+
+@-o-keyframes steam {
+    to { -o-transform: rotate(360deg); }
+}
+
+@keyframes steam {
+    to { transform: rotate(360deg); }
+}
+
+@-webkit-keyframes loading-1 {
+    14.28% { opacity: 0.3; }
+}
+
+@-webkit-keyframes loading-2 {
+    28.57% { opacity: 0.3; }
+}
+
+@-webkit-keyframes loading-3 {
+    42.86% { opacity: 0.3; }
+}
+
+@-webkit-keyframes loading-4 {
+    57.14% { opacity: 0.3; }
+}
+
+@-webkit-keyframes loading-5 {
+    71.43% { opacity: 0.3; }
+}
+
+@-webkit-keyframes loading-6 {
+    85.71% { opacity: 0.3; }
+}
+
+@-webkit-keyframes loading-7 {
+    100% { opacity: 0.3; }
+}
+
+@-moz-keyframes loading-1 {
+    14.28% { opacity: 0.3; }
+}
+
+@-moz-keyframes loading-2 {
+    28.57% { opacity: 0.3; }
+}
+
+@-moz-keyframes loading-3 {
+    42.86% { opacity: 0.3; }
+}
+
+@-moz-keyframes loading-4 {
+    57.14% { opacity: 0.3; }
+}
+
+@-moz-keyframes loading-5 {
+    71.43% { opacity: 0.3; }
+}
+
+@-moz-keyframes loading-6 {
+    85.71% { opacity: 0.3; }
+}
+
+@-moz-keyframes loading-7 {
+    100% { opacity: 0.3; }
+}
+
+@-ms-keyframes loading-1 {
+    14.28% { opacity: 0.3; }
+}
+
+@-ms-keyframes loading-2 {
+    28.57% { opacity: 0.3; }
+}
+
+@-ms-keyframes loading-3 {
+    42.86% { opacity: 0.3; }
+}
+
+@-ms-keyframes loading-4 {
+    57.14% { opacity: 0.3; }
+}
+
+@-ms-keyframes loading-5 {
+    71.43% { opacity: 0.3; }
+}
+
+@-ms-keyframes loading-6 {
+    85.71% { opacity: 0.3; }
+}
+
+@-ms-keyframes loading-7 {
+    100% { opacity: 0.3; }
+}
+
+@-o-keyframes loading-1 {
+    14.28% { opacity: 0.3; }
+}
+
+@-o-keyframes loading-2 {
+    28.57% { opacity: 0.3; }
+}
+
+@-o-keyframes loading-3 {
+    42.86% { opacity: 0.3; }
+}
+
+@-o-keyframes loading-4 {
+    57.14% { opacity: 0.3; }
+}
+
+@-o-keyframes loading-5 {
+    71.43% { opacity: 0.3; }
+}
+
+@-o-keyframes loading-6 {
+    85.71% { opacity: 0.3; }
+}
+
+@-o-keyframes loading-7 {
+    100% { opacity: 0.3; }
+}
+
+@keyframes loading-1 {
+    14.28% { opacity: 0.3; }
+}
+
+@keyframes loading-2 {
+    28.57% { opacity: 0.3; }
+}
+
+@keyframes loading-3 {
+    42.86% { opacity: 0.3; }
+}
+
+@keyframes loading-4 {
+    57.14% { opacity: 0.3; }
+}
+
+@keyframes loading-5 {
+    71.43% { opacity: 0.3; }
+}
+
+@keyframes loading-6 {
+    85.71% { opacity: 0.3; }
+}
+
+@keyframes loading-7 {
+    100% { opacity: 0.3; }
+}
+
+
+</style>	
+
+<style>
+#loading{
+	background-color: white;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	margin-top: 0px;
+	top: 0px;
+}
+#loading-center{
+	width: 100%;
+	height: 100%;
+	position: relative;
+	}
+#loading-center-absolute {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	height: 200px;
+	width: 200px;
+	margin-top: -180px;
+	margin-left: -100px;	
+
+}
+.object{
+    -moz-border-radius: 50% 50% 50% 50%;
+	-webkit-border-radius: 50% 50% 50% 50%;
+	border-radius: 50% 50% 50% 50%;
+	position: absolute;
+	border-left: 5px solid black;
+	border-right: 5px solid black;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+	-webkit-animation: animate 2s infinite;
+	animation: animate 2s infinite;	
+	}
+
+#object_one{
+	left: 75px;
+	top: 75px;
+	width: 50px;
+	height: 50px;
+	}
+							
+#object_two{
+	left: 65px;
+	top: 65px;
+	width: 70px;
+	height: 70px;
+	-webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+	}
+		
+#object_three{
+	left: 55px;
+	top: 55px;
+	width: 90px;
+	height: 90px;
+	-webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+	}
+#object_four{
+	left: 45px;
+	top: 45px;
+	width: 110px;
+	height: 110px;
+	-webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+	
+	}	
+
+@-webkit-keyframes animate {
+ 
+
+50% {
+	-ms-transform: rotate(180deg); 
+   	-webkit-transform: rotate(180deg); 
+    transform: rotate(180deg); 
+  }
+	  
+100% {
+	-ms-transform: rotate(0deg); 
+   	-webkit-transform: rotate(0deg); 
+    transform: rotate(0deg); 
+  }	  
+
+}
+
+@keyframes animate {
+
+50% {
+	-ms-transform: rotate(180deg); 
+   	-webkit-transform: rotate(180deg); 
+    transform: rotate(180deg); 
+  }
+	  
+100% {
+	-ms-transform: rotate(0deg); 
+   	-webkit-transform: rotate(0deg); 
+    transform: rotate(0deg); 
+  }	  
+  
+}
+#object_text {
+	text-align:center;
+	font-size:24px;
+	width:480px;
+	margin-left:-130px;
+	margin-top: 175px;
+}
+
+/* full container */
+.html2canvas-container { width: 3000px !important; height: 3000px !important; }
+</body>
+</html>
+
